@@ -50,13 +50,3 @@ Collection of web development tools for designers and developers. All tools are 
 ## 📦 Full Tool List
 
 For a complete list of all available tools, visit the [Rustcode Web Tools homepage](https://www.rustcodeweb.com/p/tools.html).
-
-## 💻 Development
-
-Want to contribute? Here's how to set up the project locally:
-
-```bash
-git clone https://github.com/yourusername/rustcode-tools.git
-cd rustcode-tools
-npm install
-npm start

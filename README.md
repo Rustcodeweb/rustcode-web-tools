@@ -1,8 +1,6 @@
 # Rustcode Web Tools Collection
 
-![Rustcode Tools Banner](https://via.placeholder.com/1200x400/2d3748/ffffff?text=Rustcode+Web+Tools)
-
-A comprehensive collection of web development tools for designers and developers. All tools are freely available online.
+Collection of web development tools for designers and developers. All tools are freely available online.
 
 ## 🌟 Featured Tools
 
@@ -51,7 +49,7 @@ A comprehensive collection of web development tools for designers and developers
 
 ## 📦 Full Tool List
 
-For a complete list of all available tools, visit the [Rustcode Web Tools homepage](https://www.rustcodeweb.com/).
+For a complete list of all available tools, visit the [Rustcode Web Tools homepage](https://www.rustcodeweb.com/p/tools.html).
 
 ## 💻 Development
 

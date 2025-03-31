@@ -49,4 +49,4 @@ Collection of web development tools for designers and developers. All tools are 
 
 ## 📦 Full Tool List
 
-For a complete list of all available tools, visit the [Rustcode Web Tools homepage](https://www.rustcodeweb.com/p/tools.html).
+For a complete list of all available tools, visit the [Rustcode Web Tools homepage](https://www.rustcodeweb.com/p/dev-tools.html).
